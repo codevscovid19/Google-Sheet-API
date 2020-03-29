@@ -10,7 +10,7 @@ spreadmodelling(at)gmail.com
 #### Get Start!
 First, save the file "credentials.json" and your .py file or the "Generalcode_for_all_spreadsheets.py" file to your working directory. Both files have to be in the same directory at your python environment. You will find both in the Google-Sheet-API Reposity.
 
-Fill out the "Spreadsheet Numbre" and the "Range name". Get help here: 
+Fill out the "Spreadsheet Number" and the "Range name". Get help here: 
 
 Run the following command to install the library using pip: pip install --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib or install the python package into your python environment. 1) google-api-python-client 2) google-auth-httplib2 3) google-auth-oauthlib.
 
