@@ -22,7 +22,7 @@ Run the "Generalcode_for_all_spreadsheets.py" file
 #### Client Secret
 -X6xZwqhS9PPTKKrOjeOsrWm
 
-#### API Kex
+#### API Key <- already activate at the spreadmodelling Google Account
 AIzaSyDw4l6Zuwr-2rwDjlKNKSB-jWHmcJijXpk
 
 #### Support
