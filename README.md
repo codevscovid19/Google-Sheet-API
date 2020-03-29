@@ -1,5 +1,5 @@
 # Google-Sheet-API for the spreadmodelling project
-*
+
 
 #### Google Account Username
 spreadmodelling(at)gmail.com
