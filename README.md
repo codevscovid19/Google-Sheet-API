@@ -1,14 +1,10 @@
-# Google-Sheet-API
+# Google-Sheet-API for the spreadmodelling project
+***
 
-#### Google Help
-Access data for the public interface: https://developers.google.com/sheets/api/quickstart/python
-
-## Google Account for the spreadmodelling project
-
-#### Username
+#### Google Account Username
 spreadmodelling(at)gmail.com
 
-#### Password
+#### Google Account Password
 !spreadmodelling!
 
 #### Start
@@ -21,4 +17,9 @@ First, save the file "credentials.json" and the "Policy_Measures.py" file to you
 -X6xZwqhS9PPTKKrOjeOsrWm
 
 #### API Kex
+still missing
+
+#### Google Help
+Access data for the public interface: https://developers.google.com/sheets/api/quickstart/python
+
 
