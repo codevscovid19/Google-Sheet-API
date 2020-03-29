@@ -1,10 +1,10 @@
 # Google-Sheet-API for the spreadmodelling project
 
 
-#### Google Account Username
+#### Google Test Account Username
 spreadmodelling(at)gmail.com
 
-#### Google Account Password
+#### Google Test Account Password
 !spreadmodelling!
 
 #### Get Start!
