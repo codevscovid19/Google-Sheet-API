@@ -17,7 +17,7 @@ First, save the file "credentials.json" and the "Policy_Measures.py" file to you
 -X6xZwqhS9PPTKKrOjeOsrWm
 
 #### API Kex
-still missing
+AIzaSyDw4l6Zuwr-2rwDjlKNKSB-jWHmcJijXpk
 
 #### Google Help
 Access data for the public interface: https://developers.google.com/sheets/api/quickstart/python
