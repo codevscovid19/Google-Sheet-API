@@ -22,6 +22,9 @@ or install the following python package into your python environment:
 
 Run the "Generalcode_for_all_spreadsheets.py" file
 
+#### Install oauth2client
+$ pip install --upgrade oauth2client
+
 #### Client ID
 110510193029-gpees75m2jv3f896aaihpb9vmcjinvk2.apps.googleusercontent.com
 
