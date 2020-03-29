@@ -8,7 +8,7 @@ spreadmodelling(at)gmail.com
 !spreadmodelling!
 
 #### Get Start!
-First, save the file "credentials.json" and your "Generalcode_for_all_spreadsheets.py" file to your working directory. You will find both in the Google-Sheet-API Reposity.
+First, save the file "credentials.json" and your .py file or the "Generalcode_for_all_spreadsheets.py" file to your working directory. You will find both in the Google-Sheet-API Reposity.
 
 Fill out the "Spreadsheet Numbre" and the "Range name". Get help here: 
 
