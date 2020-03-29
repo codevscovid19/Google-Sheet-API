@@ -26,7 +26,8 @@ Run the "Generalcode_for_all_spreadsheets.py" file
 AIzaSyDw4l6Zuwr-2rwDjlKNKSB-jWHmcJijXpk
 
 #### Support
-*Access data for the public interface: https://developers.google.com/sheets/api/quickstart/python
-*How to access Google Sheet data using the Python API and convert to Pandas dataframe: https://towardsdatascience.com/how-to-access-google-sheet-data-using-the-python-api-and-convert-to-pandas-dataframe-5ec020564f0e
+* Access data for the public interface: https://developers.google.com/sheets/api/quickstart/python
+
+* How to access Google Sheet data using the Python API and convert to Pandas dataframe: https://towardsdatascience.com/how-to-access-google-sheet-data-using-the-python-api-and-convert-to-pandas-dataframe-5ec020564f0e
 
 
