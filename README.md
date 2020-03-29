@@ -15,7 +15,10 @@ Fill out the "Spreadsheet Number" and the "Range name". You will find the spread
 Run the following command to install the library using pip: 
 pip install --upgrade google-api-python-client google-auth-httplib2 google-auth-oauthlib
 
-or install the following python package into your python environment: 1) google-api-python-client 2) google-auth-httplib2 3) google-auth-oauthlib.
+or install the following python package into your python environment:
+1) google-api-python-client
+2) google-auth-httplib2
+3) google-auth-oauthlib.
 
 Run the "Generalcode_for_all_spreadsheets.py" file
 
